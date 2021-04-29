@@ -1,0 +1,4 @@
+include ':ComTAssessment'
+include ':SimpleJavaLabs'
+include ':app'
+rootProject.name = "BasicJavaApps"
